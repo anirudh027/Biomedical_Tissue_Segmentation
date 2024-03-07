@@ -14,4 +14,4 @@ An example of the dataset is shown below
 
 The results and an example of the experiments are shown below
 <img src = "images/utput_table.png" alt="table_results"></img>
-<img ssrc = "images/output_models.png" alt = "results"></img>
+<img src = "images/output_models.png" alt = "results"></img>
