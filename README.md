@@ -10,8 +10,8 @@ Experiments were conducted using the OCELOT 2023: Cell Detection from Cell-Tissu
 ##  EDA and Results
 
 An example of the dataset is shown below
-![image]{images/output.png}
+<img src="images/output.png", alt="example_image"></img>
 
 The results and an example of the experiments are shown below
-![table]{images/utput_table.png}
-![results]{images/output_models.png}
+<img src = "images/utput_table.png" alt="table_results"></img>
+<img ssrc = "images/output_models.png" alt = "results"></img>
